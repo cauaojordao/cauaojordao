@@ -7,7 +7,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
-Full-Stack developer with experience in Next.js framework, React.js, Node.js, .NET, MongoDB, JavaScript, C, C#, Python, HTML, CSS.
+Full-Stack developer with experience in Next.js framework, React.js, Node.js, .NET, MongoDB, JavaScript, C#, Python, HTML, CSS.
 
 Recently finished a Gemini AI integration project using React.js, Node.js, Docker, API Rest, Styled Components and much more. Checkout its repository on <a href="https://github.com/victorb-s/SJCC-Desenvolvimento">"é I.D.E.I.A."</a>.
 
