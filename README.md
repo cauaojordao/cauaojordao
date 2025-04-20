@@ -2,18 +2,21 @@
 
 <div>
   
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-Full-Stack developer with experience in Next.js framework, React.js, Node.js, .NET, MongoDB, JavaScript, C#, Python, HTML, CSS.
+Back-End developer intern on SECTIPE, working with .NET; C#; ASP NET environment. Dealing with business rules analysis and Database modeling, applying the concepts of Clean Architecture software engineering.
+At the free time, i develop solutions as a Full-Stack developer with experience in Next.js framework, React.js, Node.js, MongoDB, MySQL, PostgreSQL, JavaScript, Python.
 
-Recently finished a Gemini AI integration project using React.js, Node.js, Docker, API Rest, Styled Components and much more. Checkout its repository on <a href="https://github.com/victorb-s/SJCC-Desenvolvimento">"é I.D.E.I.A."</a>.
+Recently worked on a Gemini AI integration project using React.js, Node.js, Docker, API Rest, Styled Components and much more. Checkout its repository on <a href="https://github.com/victorb-s/SJCC-Desenvolvimento">"é I.D.E.I.A."</a>.
 
 I've been multiple times UX/UI leader, applying agile methods to peform efficient works.
 
-I'm currently looking for improve my cybersecurity and full-stack development skills to build scalable and secure applications.
+I'm currently looking for improve my .NET and full-stack development skills to build scalable and secure applications.
 
 <a href = "mailto:cauaojordao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cauã-otaviano-076814303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
